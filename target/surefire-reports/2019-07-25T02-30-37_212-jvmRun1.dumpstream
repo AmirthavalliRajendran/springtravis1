@@ -1,0 +1,131 @@
+# Created at 2019-07-25T02:30:51.215
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-07-25T02:30:51.815
+Unexpected IOException with stream: 
+
+
+# Created at 2019-07-25T02:30:51.816
+Unexpected IOException with stream:   .   ____          _            __ _ _
+
+
+# Created at 2019-07-25T02:30:51.818
+Unexpected IOException with stream:  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+
+
+# Created at 2019-07-25T02:30:51.819
+Unexpected IOException with stream: ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+
+
+# Created at 2019-07-25T02:30:51.819
+Unexpected IOException with stream:  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+
+
+# Created at 2019-07-25T02:30:51.821
+Unexpected IOException with stream:   '  |____| .__|_| |_|_| |_\__, | / / / /
+
+
+# Created at 2019-07-25T02:30:51.822
+Unexpected IOException with stream:  =========|_|==============|___/=/_/_/_/
+
+
+# Created at 2019-07-25T02:30:51.841
+Unexpected IOException with stream:  :: Spring Boot ::        (v2.1.6.RELEASE)
+
+
+# Created at 2019-07-25T02:30:51.842
+Unexpected IOException with stream: 
+
+
+# Created at 2019-07-25T02:30:52.778
+Unexpected IOException with stream: 2019-07-25 02:30:52.771  INFO 10532 --- [           main] c.k.springtra.SpringtraApplicationTests  : Starting SpringtraApplicationTests on KG-GSS236 with PID 10532 (started by amirthavalli.r in D:\amirtha\java\springtra)
+
+
+# Created at 2019-07-25T02:30:52.780
+Unexpected IOException with stream: 2019-07-25 02:30:52.780  INFO 10532 --- [           main] c.k.springtra.SpringtraApplicationTests  : No active profile set, falling back to default profiles: default
+
+
+# Created at 2019-07-25T02:30:59.095
+Unexpected IOException with stream: 2019-07-25 02:30:59.079  INFO 10532 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+
+
+# Created at 2019-07-25T02:30:59.688
+Unexpected IOException with stream: 2019-07-25 02:30:59.688  INFO 10532 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 470ms. Found 1 repository interfaces.
+
+
+# Created at 2019-07-25T02:31:00.953
+Unexpected IOException with stream: 2019-07-25 02:31:00.952  INFO 10532 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$53205f0c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+
+# Created at 2019-07-25T02:31:01.861
+Unexpected IOException with stream: 2019-07-25 02:31:01.860  INFO 10532 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2019-07-25T02:31:02.676
+Unexpected IOException with stream: 2019-07-25 02:31:02.673  INFO 10532 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2019-07-25T02:31:03.085
+Unexpected IOException with stream: 2019-07-25 02:31:03.085  INFO 10532 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+
+
+# Created at 2019-07-25T02:31:03.370
+Unexpected IOException with stream: 2019-07-25 02:31:03.370  INFO 10532 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
+
+
+# Created at 2019-07-25T02:31:03.370
+Unexpected IOException with stream: 2019-07-25 02:31:03.370  INFO 10532 --- [           main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+
+
+# Created at 2019-07-25T02:31:03.558
+Unexpected IOException with stream: 2019-07-25 02:31:03.558  INFO 10532 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+
+
+# Created at 2019-07-25T02:31:04.180
+Unexpected IOException with stream: 2019-07-25 02:31:04.179  INFO 10532 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+
+
+# Created at 2019-07-25T02:31:05.447
+Unexpected IOException with stream: 2019-07-25 02:31:05.447  INFO 10532 --- [           main] o.h.t.schema.internal.SchemaCreatorImpl  : HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@74100298'
+
+
+# Created at 2019-07-25T02:31:05.463
+Unexpected IOException with stream: 2019-07-25 02:31:05.463  INFO 10532 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2019-07-25T02:31:08.028
+Unexpected IOException with stream: 2019-07-25 02:31:08.013  INFO 10532 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2019-07-25T02:31:08.223
+Unexpected IOException with stream: 2019-07-25 02:31:08.223  WARN 10532 --- [           main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2019-07-25T02:31:08.407
+Unexpected IOException with stream: 2019-07-25 02:31:08.407  INFO 10532 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+
+
+# Created at 2019-07-25T02:31:08.858
+Unexpected IOException with stream: 2019-07-25 02:31:08.857  INFO 10532 --- [           main] c.k.springtra.SpringtraApplicationTests  : Started SpringtraApplicationTests in 25.679 seconds (JVM running for 30.787)
+
+
+# Created at 2019-07-25T02:31:08.920
+Unexpected IOException: 5,1,com.kgisl.springtra.SpringtraApplicationTests,contextLoads(com.kgisl.springtra.SpringtraApplicationTests),null,null,null
+
+
+# Created at 2019-07-25T02:31:08.936
+Unexpected IOException: 6,1,com.kgisl.springtra.SpringtraApplicationTests,contextLoads(com.kgisl.springtra.SpringtraApplicationTests),null,null,null
+
+
+# Created at 2019-07-25T02:31:08.937
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,com.kgisl.springtra.SpringtraApplicationTests,null,null,null
+
+

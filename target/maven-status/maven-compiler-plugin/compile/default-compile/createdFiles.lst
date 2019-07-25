@@ -1,0 +1,6 @@
+com\kgisl\springtra\service\CarServiceImpl.class
+com\kgisl\springtra\SpringtraApplication.class
+com\kgisl\springtra\model\Car.class
+com\kgisl\springtra\controller\CarController.class
+com\kgisl\springtra\service\CarService.class
+com\kgisl\springtra\repository\CarRepository.class
