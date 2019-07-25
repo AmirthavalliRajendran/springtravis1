@@ -11,4 +11,4 @@ addons:
  sonarcloud:
    organization: springtraviscl
    token:
-     secure: 88d571354e631041f3e2c1166f24cfd387ca71c6
+     secure: 7565bb3b8595d42ee172cd829812b0a1f06eb0a0
