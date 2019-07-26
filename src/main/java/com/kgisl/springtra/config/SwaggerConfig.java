@@ -19,5 +19,6 @@ public class SwaggerConfig {
      .apis(RequestHandlerSelectors.basePackage("com.kgisl.springtra.controller"))
      .paths(PathSelectors.any())
      .build();
+     
     }
 }
