@@ -4,3 +4,7 @@ before_install:
 - chmod +x mvnw
 after_success:
 - bash <(curl -s https://codecov.io/bash)
+deploy:
+ provider: heroku
+ api_key: 0e6220cd-83b2-4dd7-9daa-290d2394bcc1
+ app: springtravis
